@@ -2,9 +2,9 @@
 
 <br />
 
-Hello, I'm Sanjana Shivakumar. I'm an ambitious Full Stack software developer with a keen interest towards Machine Learning. Being a curious coder, I have worked on independent projects and collaborated on several others. I'm currently learning [React Native](https://reactnative.dev/) while adding skills to my arsenal.
+Hello, I'm Sanjana Shivakumar. I'm an ambitious Full Stack web developer with a keen interest towards Machine Learning. Being a curious coder, I have worked on independent projects and collaborated on several others. I'm currently learning [React Native](https://reactnative.dev/) while adding skills to my arsenal.
 
-My interest in all things technical derives from the endless possibilities that exist, encouraging me to learn something new every day, in various fields, and to improve my skills.
+My interest in all things technical derives from the endless possibilities that exist, encouraging me to learn something new every day, in various fields, and to improve my skill set.
 
 <hr />
 
