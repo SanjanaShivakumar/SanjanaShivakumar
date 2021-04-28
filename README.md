@@ -10,7 +10,7 @@ My interest in all things technical derives from the endless possibilities that 
 
 **Here's how we can connect:**
 
-- 💻 Portfolio: 
+- 💻 Portfolio: Under Development 👷‍♀️
 - 📧 Email: sanjshivakumar@gmail.com
 - 📱 LinkedIn: https://www.linkedin.com/in/sanjana-shivakumar
 - 📄 Resume: [Click here to view.](https://drive.google.com/file/d/1VZE_usGGcSML5mSt7Wz1j4WLq-wjIIVm/view?usp=sharing)
